@@ -1,0 +1,41 @@
+/* Tooltip */
+
+	/* formobile */
+
+@media(min-width:360px){
+	
+.btn button{
+	font-size:10px;
+}	
+.row{
+	width:100%;
+}
+	
+	
+}
+
+	/* foripad */
+@media(min-width:760px){
+
+.btn button{
+	font-size:15px;
+}	
+.row{
+	width:100%;
+}
+	
+}
+
+
+	/* forlaptop */
+@media(min-width:900px){
+	
+.btn button{
+	font-size:20px;
+}	
+.row{
+	width:50%;
+}
+	
+}
+
